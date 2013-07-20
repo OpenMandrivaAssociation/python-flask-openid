@@ -2,10 +2,8 @@
 
 Name:		python-flask-openid
 Version:	1.0.1
-Release:	2
+Release:	3
 Summary:	OpenID support for Flask
-
-Group:		Development/Python
 License:	BSD
 URL:		http://github.com/mitsuhiko/flask-openid/
 Source0:	http://pypi.python.org/packages/source/F/%{mod_name}/%{mod_name}-%{version}.tar.gz
