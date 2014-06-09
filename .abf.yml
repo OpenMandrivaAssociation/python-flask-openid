@@ -1,2 +1,4 @@
+removed_sources:
+  Flask-OpenID-1.0.1.tar.gz: cb4c53b87fa6fcff747c9000023dd0249d18bfad
 sources:
-  "Flask-OpenID-1.0.1.tar.gz": cb4c53b87fa6fcff747c9000023dd0249d18bfad
+  Flask-OpenID-1.2.1.tar.gz: fd248a83ea1d5a508246b5e5ea703dcc8a652165
