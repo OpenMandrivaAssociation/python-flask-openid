@@ -2,7 +2,7 @@
 
 Name:		python-flask-openid
 Version:	1.2.1
-Release:	1
+Release:	2
 Summary:	OpenID support for Flask
 
 
