@@ -8,7 +8,7 @@ Summary:	OpenID support for Flask
 
 Group:		Development/Python
 License:	BSD
-URL:		http://github.com/mitsuhiko/flask-openid/
+URL:		https://github.com/mitsuhiko/flask-openid/
 Source0:	http://pypi.python.org/packages/source/F/Flask-OpenID/Flask-OpenID-%{version}.tar.gz
 
 BuildArch:	noarch
